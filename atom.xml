@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-09-10T04:24:34.589Z</updated>
+  <updated>2020-09-10T04:28:37.277Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,18 @@
     <link href="http://yoursite.com/2020/09/10/%E5%89%8D%E7%AB%AFES6/"/>
     <id>http://yoursite.com/2020/09/10/%E5%89%8D%E7%AB%AFES6/</id>
     <published>2020-09-10T03:39:40.000Z</published>
-    <updated>2020-09-10T04:24:34.589Z</updated>
+    <updated>2020-09-10T04:28:37.277Z</updated>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;先介绍ES5中的严格模式&lt;/p&gt;
+
+        
+      
     
     </summary>
     
